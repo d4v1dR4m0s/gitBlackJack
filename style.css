@@ -1,0 +1,23 @@
+html, body {
+  margin: 0px;
+  background-color: rgb(62, 124, 62);
+
+}
+
+.titulo {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.card1 {
+  position: relative;
+  width: 130px;
+  left : 100px;
+  margin-left: -75px;
+}
+#py-card, #pc-card {
+height: 200px;
+}
